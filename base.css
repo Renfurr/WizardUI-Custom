@@ -10,7 +10,6 @@
     --version: "test1"; /* 0-00 */
     --currentVersion: "test2";
     /* MAIN VARIABLES */
-    --Watermark: "test3";
     --font: 'Inter', 'emoji', sans-serif;
     --Text: rgb(255, 255, 255);
     --Text-muted: rgba(255, 255, 255, .65);
