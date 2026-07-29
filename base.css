@@ -8,9 +8,9 @@
 
 :root {
     --version: ""; /* 0-00 */
-    --currentVersion: "";
+    --currentVersion: " ";
     /* MAIN VARIABLES */
-    --Watermark: "";
+    --Watermark: " ";
     --font: 'Inter', 'emoji', sans-serif;
     --Text: rgb(255, 255, 255);
     --Text-muted: rgba(255, 255, 255, .65);
