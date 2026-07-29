@@ -7,10 +7,10 @@
 }
 
 :root {
-    --version: "2026-41"; /* 0-00 */
-    --currentVersion: "WizardUI v" var(--version);
+    --version: ""; /* 0-00 */
+    --currentVersion: "";
     /* MAIN VARIABLES */
-    --Watermark: "- WizardUI v" var(--version);
+    --Watermark: "";
     --font: 'Inter', 'emoji', sans-serif;
     --Text: rgb(255, 255, 255);
     --Text-muted: rgba(255, 255, 255, .65);
